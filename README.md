@@ -9,7 +9,7 @@
 	river020611@gmail.com<br/>
 	river0611@chungbuk.ac.kr<br/><br/>
 	🛠 Tech Stack 🛠<br/>
-	used at least once
+	used at least once<br/>
 	<img src="https://img.shields.io/badge/-C-0066CC?style=flat-square&logo=C&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-C-0066CC?style=flat-square&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-C-0066CC?style=flat-square&logo=HTML5&logoColor=white"/>
