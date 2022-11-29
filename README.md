@@ -11,7 +11,7 @@
 	🛠 Tech Stack 🛠<br/>
 	used at least once<br/>
 	<img src="https://img.shields.io/badge/-C-0066CC?style=flat-square&logo=C&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-Python-F0F8FF?style=flat-square&logo=Python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Python-3300CC?style=flat-square&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
