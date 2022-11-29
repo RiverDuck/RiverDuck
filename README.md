@@ -2,4 +2,4 @@
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/텍스트-컬러코드?style=원하는스타일&logo=아이콘이름&logoColor=white"/>
 
-<a href="클릭시 이동할 링크" target="_blank"><img src=https://img.shields.io/badge/-GitHub-lightgrey?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/-GitHub-lightgrey?style=flat-square&logo=GitHub&logoColor=white"/></a>
